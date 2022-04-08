@@ -7,7 +7,7 @@ Hola ✌️  soy el explorer **Cesar Pineda (htmtmx)** y este es mi blog persona
 
 Te invito a conocer mis aprendizajes y leer mis experiencias! 🤓
 
-Las espectativas que tengo para esta travesía son:
+Las expectativas que tengo para esta travesía son:
 
 1. Adquirir y desarrollar habilidades para ser un developer excepcional
 2. Conocer, aprender y experimentar con JavaScript
