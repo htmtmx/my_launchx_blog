@@ -9,11 +9,10 @@ Te invito a conocer mis aprendizajes y leer mis experiencias! 🤓
 
 Las espectativas que tengo para esta travesía son:
 
-<ol>
-  <li>Adquirir y desarrollar habilidades para ser un developer excepcional</li>
-  <li>Conocer, aprender y experimentar con JavaScript</li>
-  <li>Aprender a usar Git y Git Hub de manera profesional</li>
-  <li>Descubrir como se relacionan y funciona el Front End con el Back End</li>
-  <li>Conocer a gente maravillosa y talentosa</li>
-</ol>
+1. Adquirir y desarrollar habilidades para ser un developer excepcional
+2. Conocer, aprender y experimentar con JavaScript
+3. Aprender a usar Git y Git Hub de manera profesional
+4. Descubrir como se relacionan y funciona el Front End con el Back End
+5. Conocer a gente maravillosa y talentosa
+
 🚀
